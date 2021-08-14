@@ -19,4 +19,12 @@ In this project, the aspects upon which I have focused the most are the UX viewp
 
 ## Demo screenshots of the application
 
-![Screenshot_20210814-153933](https://user-images.githubusercontent.com/39917179/129458295-c7673def-e894-41ee-8ccf-d8cf04389704.png) ![Screenshot_20210814-153949](https://user-images.githubusercontent.com/39917179/129458306-1a722a09-4fde-4047-9aa8-058be43ab2ab.png) ![Screenshot_20210814-154210](https://user-images.githubusercontent.com/39917179/129458335-1e066097-f318-412c-ad6e-6981870a2069.png) ![Screenshot_20210814-154158](https://user-images.githubusercontent.com/39917179/129458345-250ebab8-a3f9-42ce-8fe8-bbbe643f5c2b.png) ![Screenshot_20210814-154040](https://user-images.githubusercontent.com/39917179/129458350-1fac5467-dd7d-477e-8f74-828bd517a764.png)
+<img src="https://user-images.githubusercontent.com/39917179/129458295-c7673def-e894-41ee-8ccf-d8cf04389704.png" width="400" height="650">
+
+<img src="https://user-images.githubusercontent.com/39917179/129458306-1a722a09-4fde-4047-9aa8-058be43ab2ab.png" width="400" height="650">
+
+<img src="https://user-images.githubusercontent.com/39917179/129458335-1e066097-f318-412c-ad6e-6981870a2069.png" width="400" height="650">
+
+<img src="https://user-images.githubusercontent.com/39917179/129458345-250ebab8-a3f9-42ce-8fe8-bbbe643f5c2b.png" width="400" height="650">
+
+<img src="https://user-images.githubusercontent.com/39917179/129458350-1fac5467-dd7d-477e-8f74-828bd517a764.png" width="400" height="650">
