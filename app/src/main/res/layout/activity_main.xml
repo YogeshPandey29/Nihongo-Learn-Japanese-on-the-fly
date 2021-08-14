@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#c5cae9"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <include
+        layout="@layout/action_bar" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#ad1457" >
+
+        <TextView
+            android:id="@+id/jpn_trivia"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/category_trivia"
+            android:textSize="25dp"
+            android:fontFamily="@font/caveat_bold"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:textAlignment="center"
+            android:layout_gravity="center_horizontal" />
+
+    </FrameLayout>
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#c2185b" >
+
+        <TextView
+            android:id="@+id/numbers"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/category_numbers"
+            android:textSize="25dp"
+            android:fontFamily="@font/caveat_bold"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:textAlignment="center"
+            android:layout_gravity="center_horizontal" />
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#d81b60" >
+
+        <TextView
+            android:id="@+id/colors"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/category_colors"
+            android:fontFamily="@font/caveat_bold"
+            android:textSize="25dp"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:textAlignment="center"
+            android:layout_gravity="center_horizontal" />
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#e91e63" >
+
+        <TextView
+            android:id="@+id/familyMembers"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/category_familyMembers"
+            android:fontFamily="@font/caveat_bold"
+            android:textSize="25dp"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:textAlignment="center"
+            android:layout_gravity="center_horizontal" />
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#ec407a" >
+
+        <TextView
+            android:id="@+id/phrases"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/category_phrases"
+            android:fontFamily="@font/caveat_bold"
+            android:textSize="25dp"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:textAlignment="center"
+            android:layout_gravity="center_horizontal" />
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#f06292" >
+
+        <TextView
+            android:id="@+id/commonQuestions"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/category_Questions"
+            android:fontFamily="@font/caveat_bold"
+            android:textSize="25dp"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:textAlignment="center"
+            android:layout_gravity="center_horizontal" />
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#f48fb1" >
+
+        <TextView
+            android:id="@+id/occupations"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/category_occupations"
+            android:fontFamily="@font/caveat_bold"
+            android:textSize="25dp"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:textAlignment="center"
+            android:layout_gravity="center_horizontal" />
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#f8bbd0" >
+
+        <TextView
+            android:id="@+id/commonPlaces"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/category_places"
+            android:fontFamily="@font/caveat_bold"
+            android:textSize="25dp"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:textAlignment="center"
+            android:layout_gravity="center_horizontal" />
+
+    </FrameLayout>
+
+
+
+</LinearLayout>

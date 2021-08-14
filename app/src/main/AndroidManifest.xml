@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.nihongo">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="Nihongo"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.JapaneseLangCoach">
+
+
+        <activity
+            android:name="com.example.nihongo.TriviaActivity"
+            android:label="About Japan"/>
+        <activity
+            android:name="com.example.nihongo.TouristspotsActivity"
+            android:label="Tourist Spots" />
+        <activity
+            android:name="com.example.nihongo.CommonoccupationsActivity"
+            android:label="Common Occupations" />
+        <activity
+            android:name="com.example.nihongo.CommonquestionsActivity"
+            android:label="Common Questions" />
+        <activity
+            android:name="com.example.nihongo.PhrasesActivity"
+            android:label="Phrases" />
+        <activity
+            android:name="com.example.nihongo.FamilymembersActivity"
+            android:label="Family Members" />
+        <activity
+            android:name="com.example.nihongo.ColorsActivity"
+            android:label="Colors" />
+        <activity
+            android:name="com.example.nihongo.NumbersActivity"
+            android:label="Numbers" />
+
+        <activity
+            android:name="com.example.nihongo.SplashScreenActivity"
+            android:theme="@style/AppTheme" >
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+
+        </activity>
+
+        <activity android:name="com.example.nihongo.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
