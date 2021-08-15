@@ -11,7 +11,11 @@ Keeping this thought in mind, I started this project wherein I have designed an 
 
 ## App's architecture and working
 
-The application features a list on the main menu from where a user can navigate to various screens/activities in the app, and can access the content on various pages. The pages contain an assorted collection of basic phrases and words that are used regularly in the Japanese vocabulary. For an instance, to know the various greeting phrases, and words, the numbers and family members, and things like the most famous tourist attractions in whole of Japan.
+The application features a list on the main menu from where a user can navigate to various screens/activities in the app, and can access the content on various pages. The pages contain an assorted collection of basic phrases and words that are used regularly in the Japanese vocabulary.
+
+A user can navigate to a page and find a list of words or phrases depending upon his/her choice, and then look up the word in English and its corresponding Japanese counterpart. Besides this, to make this learning more effective, AUDIO PRONUNCIATIONS have also been added to each word/phrase so that the user can listen to them and practice them accordingly.
+
+For an instance, to know the various greeting phrases, and words, the numbers and family members, and things like the most famous tourist attractions in whole of Japan.
 
 ## Accessibility and User Experience
 
